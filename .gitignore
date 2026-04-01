@@ -1,0 +1,29 @@
+# Build tool directories
+target/
+build/
+out/
+.gradle/
+.m2/
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive information (use env variables instead)
+.env
+application-local.properties
